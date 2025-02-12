@@ -1,3 +1,3 @@
-varaibles "sample" {
+varaible "sample" {
     default = "welcome to terraform"
 }
