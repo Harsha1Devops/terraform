@@ -1,4 +1,4 @@
-# terraform
+.# terraform
 This repository is to learn Terraform from basics
 The available commands for execution are listed below.
 The most common, useful commands are shown first, followed by
