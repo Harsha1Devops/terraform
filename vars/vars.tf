@@ -7,5 +7,5 @@ variable "example_op" {
 }
 
 output "example_ops" {
-    value = "we are learning ${var.example_ops[batch] and we are trying ${var.example_ops[traning]} and it is ${var.example_ops[Name]}"
+    value = "we are learning ${var.example_op[batch] and we are trying ${var.example_op[traning]} and it is ${var.example_op[Name]}"
 }
